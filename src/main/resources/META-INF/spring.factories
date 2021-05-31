@@ -1,1 +1,3 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yoso.autovalue.AutoConfigure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yoso.autovalue.AutoConfigure,\
+com.yoso.datasource.config.MultiDataSourceAutoConfig
